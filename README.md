@@ -1,10 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Carlos Contreras</h1>
 <h3 align="center">I am a player soccer who is passionate about always learning new skills. I love e-commerce, everything related to technology, programming and sales.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carllos22&label=Profile%20views&color=0e75b6&style=flat" alt="carllos22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carllos22" alt="carllos22" /></a> </p>
-
  - I’m currently learning **Multi-platform application development**
 
  - I’m looking to collaborate on **projects to keep learning and innovating.**
