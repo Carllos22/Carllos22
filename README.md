@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 🫂, I'm Welcome to my SubAccount😉</h1>
+<h1 align="center">¡Hello!🫂 Welcome to my SubAccount😉</h1>
 <h3 align="center">I am a player soccer who is passionate about always learning new skills. I like everything related to technology, programming and sales.</h3>
 
  - I’m currently learning **Multi-platform application development**
