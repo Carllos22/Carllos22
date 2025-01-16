@@ -1,5 +1,5 @@
 <h1 align="center">¡Hello!🫂 Welcome to my SubAccount😉</h1>
-<h3 align="center">I am a player soccer who is passionate about always learning new skills. I like everything related to technology, programming and sales.</h3>
+<h2 align="center">I am a semi-professional soccer player, passionate about learning new skills, especially in the digital world. I like everything related to technologies, sales and programming.</h2>
 
  - I’m currently learning **Multi-platform application development**
 
