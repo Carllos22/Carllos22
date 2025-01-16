@@ -5,7 +5,7 @@
 
  - I’m looking to collaborate on **projects to keep learning and innovating.**
 
- - I’m looking for help with **getting more involved in the programming world.**
+ - **Every day I'm looking to get more involved in the world of software development.**
 
  - You can find more information about what I share at [https://linktr.ee/carloscontrerasch](https://linktr.ee/carloscontrerasch)
 
