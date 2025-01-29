@@ -1,13 +1,11 @@
 <h1 align="center">¡Hello!🫂 Welcome to my SubAccount😉</h1>
-<h2 align="center">I am a semi-professional soccer player, passionate about learning new skills, especially in the digital world. I like everything related to technologies, sales and programming.</h2>
+<h2 align="center">I consider myself passionate about learning new skills and more in the technological world, especially in the world of software development and technologies focused on multi-platform applications. Curiously, I have been passionate about reading....</h2>
 
- - I’m currently learning **Multi-platform application development**
+ - **Multi-platform application development** is the future for me.
+  
+ - I am looking to collaborate in **projects to keep learning, contributing and innovating in their growth**.
 
- - I’m looking to collaborate on **projects to keep learning and innovating.**
-
- - **Every day I'm looking to get more involved in the world of software development.**
-
- - You can find more information about what I share at [https://linktr.ee/carloscontrerasch](https://linktr.ee/carloscontrerasch)
+ - I enjoy networking with people in the world of software development, technology and high performance sports.
 
 <img width="500" height="auto" align="right" src="/matrix.gif">
 
