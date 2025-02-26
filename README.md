@@ -1,9 +1,9 @@
-<h1 align="center">¡Hello!🫂 Welcome to my SubAccount😉</h1>
-<h2 align="center">I consider myself passionate about learning new skills and more in the technological world, especially in the world of software development and technologies focused on multi-platform applications. Curiously, I have been passionate about reading....</h2>
+<h1 align="center">🫂 Welcome to my SubAccount😉</h1>
+<h2 align="center">I consider myself passionate about learning new skills and more in the tech world, especially in the world of software development, Blockchain technology and technologies focused on cross-platform applications. Interestingly, I have been passionate about reading lately...</h2>
 
- - **Multi-platform application development** is the future for me.
+ - **Cross-platform application development** as a basics.
   
- - I am looking to collaborate in **projects to keep learning, contributing and innovating in their growth**.
+ - Collaborate and work on **projects to continue learning, contributing and innovating in their scalability**.
 
  - I enjoy networking with people in the world of software development, technology and high performance sports.
 
