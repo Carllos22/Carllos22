@@ -1,10 +1,6 @@
 <h1 align="center">🫂 Welcome to my SubAccount😉</h1>
 <h2 align="center">Writing and observing... </h2>
 
- - Collaborate and work on **projects to continue learning, contributing and innovating in their scalability**.
-
- - I enjoy networking with people in the world of software development, technology and high performance sports.
-
 <img width="500" height="auto" align="right" src="/matrix.gif">
 
 <h3 align="left"> Skills and Tools:</h3>
