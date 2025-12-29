@@ -1,4 +1,4 @@
-<h1 align="center">🫂System.out.println("Hello, World!");</h1>
+<h1 align="center">🫂System.out.println("Hello, World!");🌐</h1>
 <h2 align="center">Writing and observing... </h2>
 
 <p align="center">
