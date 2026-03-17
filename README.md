@@ -26,4 +26,6 @@
 <a href="https://www.oracle.com/uk/database/sqldeveloper/"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="android" width="40" height="40"/> </a> </a>
 <a href="https://aws.amazon.com/"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a> </a>
 <a href="https://www.mysql.com/"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/> </a> </a>
+<a href="https://supabase.com/"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/> </a> </a>
+
 </p>
