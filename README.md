@@ -1,20 +1,20 @@
-# 🦿 Carlos Contreras Hernandez | Multiplatform Software Developer
+# Carlos Contreras Hernandez | Multiplatform Software Developer | High-Performance Athlete.
 
-Computer Engineering background, currently specializing in Multiplatform Application Development (DAM). Focused on Backend Architecture, Mobile Systems (Android/iOS), and Enterprise Databases.
+Computer Engineering background, currently specializing in Multiplatform Application Development. Focused on Backend Architecture, Mobile Systems (Android/iOS), and Enterprise Databases.
 
 ### 🎓 Education & Background
 - **Computer Science Studies** (Solid foundation in software design, algorithms, and logic).
 
 
 ### 🚀 Technical Skills
-- **Languages:** Java, Kotlin, Swift, Python, JavaScript, SQL
-- **Databases & Cloud:** MySQL, Supabase, Firebase, AWS
-- **Tools & OS:** Git, Node.js, Bash, Linux
+- **Languages:** Java, Kotlin, Swift, Python, JavaScript, Typescript, SQL 
+- **Databases & Cloud:** MySQL, Supabase, Firebase, AWS, Oracle
+- **Tools & OS:** Git, Node.js, Bash, Linux, Vercel
   
 ### 🏆 Technical Certifications
-- **AWS Certified Cloud Practitioner** – Amazon Web Services | In Progress (Expected: July 2026)
+- **AWS Certified Cloud Practitioner** – Amazon Web Services | In Progress (Expected: Oct 2026)
 - **IT Specialist: Python & JavaScript** — *Certiport / Pearson VUE* | Verified.
-- **State Certification (Spain):** OOP & Relational Databases (Java/SQL) | Verified.
+- **Certification (Spain):** OOP & Relational Databases (Java/SQL) | Verified.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
