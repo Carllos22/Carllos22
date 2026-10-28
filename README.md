@@ -8,11 +8,11 @@ Computer Engineering background, currently specializing in Multiplatform Applica
 
 ### 🚀 Technical Skills
 - **Languages:** Java, Kotlin, Swift, Python, JavaScript, Typescript, SQL 
-- **Databases & Cloud:** MySQL, Supabase, Firebase, AWS, Oracle
+- **Databases & Cloud:** MySQL, Supabase, Firebase, AWS, Oracle, Cloudflare
 - **Tools & OS:** Git, Node.js, Bash, Linux, Vercel
   
 ### 🏆 Technical Certifications
-- **AWS Certified Cloud Practitioner** – Amazon Web Services | In Progress (Expected: Oct 2026)
+- **AWS Certified Cloud Practitioner** – Amazon Web Services | In Progress (Expected: Feb 2027)
 - **IT Specialist: Python & JavaScript** — *Certiport / Pearson VUE* | Verified.
 - **Certification (Spain):** OOP & Relational Databases (Java/SQL) | Verified.
 
