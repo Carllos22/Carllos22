@@ -41,7 +41,7 @@ Computer Engineering background, currently specializing in Multiplatform Applica
 <a href="https://aws.amazon.com/"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/> </a>
 <a href="https://supabase.com/"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/> </a>
-<a href="https://www.cloudflare.com/"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="Cloudflare" width="40" height="40"/> </a>
+<a href="https://www.cloudflare.com/"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/> </a>
 
 </p>
 
