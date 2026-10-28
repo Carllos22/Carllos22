@@ -42,6 +42,8 @@ Computer Engineering background, currently specializing in Multiplatform Applica
 <a href="https://www.mysql.com/"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/> </a>
 <a href="https://supabase.com/"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/> </a>
 <a href="https://www.cloudflare.com/"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/> </a>
+<a href="https://nextjs.org/"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Nextjs" width="40" height="40"/> </a>
+<a href="https://react.dev/"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> </a>
 
 </p>
 
