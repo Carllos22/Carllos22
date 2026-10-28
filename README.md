@@ -3,7 +3,7 @@
 Computer Engineering background, currently specializing in Multiplatform Application Development. Focused on Backend Architecture, Mobile Systems (Android/iOS), and Enterprise Databases.
 
 ### 🎓 Education & Background
-- **Computer Science Studies** (Solid foundation in software design, algorithms, and logic).
+- **Computer Science**
 
 
 ### 🚀 Technical Skills
